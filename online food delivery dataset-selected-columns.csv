@@ -1,0 +1,389 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Customer Type,latitude,longitude
+20,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9766,77.5993
+24,Female,Single,Student,Below Rs.10000,Graduate,3,Regular,12.977,77.5773
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,Regular,12.9551,77.6593
+22,Female,Single,Student,No Income,Graduate,6,Frequent,12.9473,77.5616
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.985,77.5533
+27,Female,Married,Employee,More than 50000,Post Graduate,2,Regular,12.9299,77.6848
+22,Male,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9828,77.6131
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9766,77.5993
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9854,77.7081
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.985,77.5533
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.8988,77.5764
+21,Male,Single,Student,No Income,Graduate,4,Frequent,12.977,77.5773
+23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,Frequent,12.9438,77.5738
+24,Female,Single,Student,No Income,Post Graduate,6,Frequent,12.8893,77.6399
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9783,77.6408
+23,Female,Single,Student,No Income,Graduate,3,Regular,12.982,77.6256
+25,Male,Single,Student,No Income,Graduate,4,Frequent,12.8988,77.5764
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,New,12.9783,77.6408
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0298,77.6047
+22,Female,Single,Student,No Income,Graduate,4,Frequent,12.9983,77.6409
+23,Male,Single,Student,No Income,Graduate,4,Frequent,12.9925,77.5633
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,Regular,12.9306,77.5434
+25,Male,Single,Student,No Income,Post Graduate,3,Regular,12.982,77.6256
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.9353,77.5585
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9155,77.5135
+23,Female,Single,Employee,10001 to 25000,Graduate,3,Regular,12.9854,77.7081
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,13.0019,77.5713
+22,Female,Single,Employee,10001 to 25000,Graduate,5,Frequent,12.9698,77.75
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9783,77.6408
+25,Male,Married,Employee,More than 50000,Ph.D,4,Frequent,12.9261,77.6221
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,Frequent,12.985,77.5533
+22,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9119,77.6446
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,Regular,12.9306,77.5434
+25,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.977,77.5773
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,Frequent,12.982,77.6256
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9438,77.5738
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.8988,77.5764
+30,Male,Married,Self Employeed,More than 50000,Uneducated,4,Frequent,12.9662,77.6068
+23,Male,Single,Student,No Income,Graduate,3,Regular,12.9565,77.5484
+23,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9925,77.5633
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.985,77.5533
+22,Male,Single,Student,No Income,Graduate,5,Frequent,12.985,77.5533
+27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,Regular,12.9261,77.6221
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773
+23,Female,Single,Student,No Income,Graduate,3,Regular,12.982,77.6256
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,Frequent,12.985,77.5533
+23,Female,Single,Student,No Income,Graduate,5,Frequent,13.0206,77.6479
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+25,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9635,77.5821
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9306,77.5434
+28,Female,Married,Student,No Income,Graduate,2,Regular,13.0067,77.545
+22,Female,Single,Student,No Income,Post Graduate,1,New,12.8845,77.6036
+24,Female,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773
+31,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9119,77.6446
+25,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0067,77.545
+23,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.8988,77.5764
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.8845,77.6036
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,New,13.0158,77.539
+23,Male,Single,Student,No Income,Graduate,4,Frequent,12.9343,77.6044
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,13.0019,77.5713
+25,Male,Single,Student,No Income,Post Graduate,6,Frequent,13.0012,77.5995
+24,Male,Single,Employee,10001 to 25000,Graduate,4,Frequent,12.9442,77.6076
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+24,Female,Married,Employee,More than 50000,Ph.D,4,Frequent,12.9438,77.5738
+22,Male,Single,Student,No Income,Graduate,4,Frequent,12.9889,77.5741
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,Regular,12.9335,77.5691
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9766,77.5993
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.8845,77.6036
+26,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0019,77.5713
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,Regular,13.102,77.5864
+26,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9048,77.6821
+21,Male,Single,Student,No Income,Graduate,4,Frequent,12.977,77.5773
+22,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+24,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.9337,77.59
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,Frequent,12.9037,77.5376
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9343,77.6044
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9438,77.5738
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9783,77.6408
+24,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.9337,77.59
+25,Male,Single,Student,No Income,Graduate,1,New,12.977,77.5773
+25,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.977,77.5773
+28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,Regular,13.0289,77.54
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,Frequent,13.0289,77.54
+26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,New,12.9698,77.75
+22,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,1,New,12.9561,77.5921
+25,Male,Single,Student,No Income,Graduate,1,New,12.977,77.5773
+23,Female,Single,Student,No Income,Graduate,5,Frequent,13.0206,77.6479
+23,Female,Single,Student,No Income,Graduate,5,Frequent,13.0206,77.6479
+26,Male,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9579,77.6309
+32,Female,Married,House wife,No Income,Uneducated,3,Regular,13.014,77.5658
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,Regular,12.9335,77.5691
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9442,77.6076
+22,Female,Single,Employee,10001 to 25000,Graduate,3,Regular,12.9698,77.75
+24,Female,Single,Student,No Income,Ph.D,3,Regular,12.9438,77.5738
+26,Male,Single,Employee,25001 to 50000,Graduate,2,Regular,12.9261,77.6221
+28,Male,Married,Employee,More than 50000,Graduate,3,Regular,12.9698,77.75
+26,Male,Single,Employee,More than 50000,Post Graduate,2,Regular,12.9698,77.75
+25,Male,Single,Student,No Income,Post Graduate,1,New,12.9343,77.6044
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9698,77.75
+18,Male,Single,Student,No Income,Graduate,5,Frequent,12.9635,77.5821
+21,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.977,77.5773
+25,Male,Single,Student,No Income,Post Graduate,1,New,12.9343,77.6044
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.9925,77.5633
+23,Female,Single,Student,No Income,Graduate,5,Frequent,13.0206,77.6479
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,Regular,12.985,77.5533
+25,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9551,77.6593
+31,Female,Married,House wife,No Income,School,5,Frequent,13.0289,77.54
+24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,Regular,13.0138,77.5877
+32,Female,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9261,77.6221
+25,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,12.9766,77.5993
+27,Female,Married,Self Employeed,More than 50000,Graduate,5,Frequent,12.9766,77.5993
+26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,Regular,12.9766,77.5993
+26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,Regular,12.9635,77.5821
+32,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9635,77.5821
+24,Male,Married,Self Employeed,More than 50000,Ph.D,6,Frequent,12.9635,77.5821
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,Regular,12.9635,77.5821
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+25,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+28,Male,Married,Employee,More than 50000,Post Graduate,3,Regular,13.0019,77.5713
+32,Female,Married,Employee,More than 50000,Graduate,1,New,13.0019,77.5713
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,13.0019,77.5713
+19,Male,Single,Student,No Income,Graduate,2,Regular,13.0019,77.5713
+19,Female,Single,Student,No Income,Graduate,4,Frequent,12.9537,77.6176
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.9698,77.75
+25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,Regular,12.998,77.6227
+33,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.998,77.6227
+26,Female,Single,Employee,More than 50000,Graduate,3,Regular,12.998,77.6227
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.9343,77.6044
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,13.102,77.5864
+22,Female,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539
+25,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.998,77.6227
+30,Female,Married,House wife,No Income,School,5,Frequent,12.998,77.6227
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0138,77.5877
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,Regular,13.0138,77.5877
+23,Male,Single,Student,More than 50000,Post Graduate,3,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0496,77.4941
+32,Male,Married,Employee,10001 to 25000,Graduate,4,Frequent,12.9783,77.6408
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9889,77.5741
+23,Male,Single,Student,More than 50000,Post Graduate,3,Regular,12.977,77.5773
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9579,77.6309
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.9579,77.6309
+24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,Frequent,12.9579,77.6309
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,Regular,12.985,77.5533
+32,Female,Married,House wife,No Income,Graduate,3,Regular,12.985,77.5533
+27,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.985,77.5533
+20,Female,Single,Student,No Income,Graduate,2,Regular,12.9337,77.59
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.9337,77.59
+26,Male,Single,Employee,More than 50000,Post Graduate,3,Regular,12.9337,77.59
+25,Male,Single,Employee,10001 to 25000,Graduate,4,Frequent,13.0166,77.6804
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,Regular,13.014,77.5658
+26,Female,Married,Employee,25001 to 50000,Graduate,3,Regular,13.014,77.5658
+27,Male,Single,Employee,More than 50000,Ph.D,4,Frequent,13.0503,77.5529
+27,Female,Single,Student,No Income,Ph.D,5,Frequent,13.0503,77.5529
+24,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.9883,77.5987
+25,Male,Married,Self Employeed,More than 50000,School,2,Regular,13.0626,77.5284
+20,Male,Single,Student,No Income,Graduate,2,Regular,13.0626,77.5284
+22,Male,Single,Student,No Income,Post Graduate,1,New,13.0626,77.5284
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,Regular,13.0166,77.6804
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,New,13.0166,77.6804
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9551,77.6593
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9551,77.6593
+23,Female,Single,Employee,10001 to 25000,Graduate,6,Frequent,12.9551,77.6593
+22,Male,Single,Student,No Income,Graduate,2,Regular,12.957,77.5637
+26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,Regular,12.957,77.5637
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,New,12.957,77.5637
+25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,Regular,12.957,77.5637
+29,Female,Married,Employee,More than 50000,Graduate,3,Regular,12.957,77.5637
+23,Male,Single,Student,Below Rs.10000,Graduate,3,Regular,12.8652,77.524
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.9698,77.75
+22,Male,Single,Student,No Income,Graduate,2,Regular,12.9889,77.5741
+32,Female,Married,House wife,No Income,School,5,Frequent,12.9889,77.5741
+28,Male,Married,Employee,More than 50000,Post Graduate,1,New,12.9925,77.5633
+22,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773
+25,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9757,77.5586
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.9757,77.5586
+31,Male,Married,Self Employeed,More than 50000,School,6,Frequent,13.0487,77.5923
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0487,77.5923
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9662,77.6068
+31,Female,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9662,77.6068
+26,Male,Single,Employee,25001 to 50000,Graduate,2,Regular,12.9343,77.6044
+24,Female,Married,Self Employeed,More than 50000,Graduate,2,Regular,12.9343,77.6044
+22,Female,Single,Student,No Income,Graduate,3,Regular,12.9343,77.6044
+19,Male,Single,Student,No Income,Graduate,6,Frequent,12.9442,77.6076
+25,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9442,77.6076
+23,Female,Married,House wife,No Income,School,6,Frequent,12.9442,77.6076
+23,Female,Single,Student,No Income,Graduate,2,Regular,13.0298,77.6047
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9261,77.6221
+24,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.9621,77.5376
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.8845,77.6036
+26,Male,Married,Employee,More than 50000,Graduate,4,Frequent,12.9048,77.6821
+25,Female,Single,Student,No Income,Ph.D,3,Regular,12.9048,77.6821
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9261,77.6221
+29,Male,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9261,77.6221
+23,Female,Single,Student,No Income,Graduate,1,New,12.977,77.5773
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,Regular,12.9783,77.6408
+29,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9783,77.6408
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,Frequent,12.9217,77.5936
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,Regular,13.0206,77.6479
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995
+23,Male,Single,Student,No Income,Graduate,3,Regular,13.0223,77.7132
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,Frequent,12.9337,77.59
+32,Male,Married,Self Employeed,10001 to 25000,School,3,Regular,12.982,77.6256
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,Frequent,13.0262,77.62
+26,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9217,77.5936
+31,Female,Married,House wife,No Income,Graduate,5,Frequent,13.0078,77.5577
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,Regular,13.0078,77.5577
+21,Female,Single,Student,No Income,Post Graduate,1,New,12.9217,77.5936
+23,Female,Single,Student,No Income,Graduate,2,Regular,12.9105,77.4842
+26,Male,Married,Employee,10001 to 25000,Graduate,4,Frequent,12.9105,77.4842
+32,Male,Married,Employee,More than 50000,Graduate,5,Frequent,12.9037,77.5376
+25,Female,Married,Student,No Income,Post Graduate,2,Regular,12.8834,77.5486
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,Regular,12.9149,77.5635
+21,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9149,77.5635
+24,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9706,77.6529
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,Frequent,12.9706,77.6529
+32,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9706,77.6529
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,Frequent,12.8845,77.6036
+21,Male,Single,Student,No Income,Graduate,5,Frequent,12.9783,77.6408
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,Regular,13.0103,77.5796
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,Regular,13.0103,77.5796
+25,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434
+29,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,13.0641,77.5931
+22,Male,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539
+24,Male,Single,Student,No Income,Graduate,2,Regular,12.9561,77.5921
+27,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.8845,77.6036
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9369,77.6407
+32,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9369,77.6407
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9369,77.6407
+28,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9369,77.6407
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,13.0158,77.539
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,New,13.0809,77.5565
+21,Male,Single,Student,No Income,Graduate,3,Regular,13.0641,77.5931
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,Frequent,12.9859,77.6713
+25,Male,Single,Self Employeed,More than 50000,School,3,Regular,12.9859,77.6713
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,New,12.9866,77.4904
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9847,77.5491
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,Regular,12.9847,77.5491
+21,Male,Single,Student,No Income,Graduate,6,Frequent,12.9847,77.5491
+20,Male,Single,Student,No Income,Graduate,3,Regular,12.9299,77.6848
+22,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9299,77.6848
+30,Female,Married,House wife,No Income,School,6,Frequent,12.9828,77.6131
+27,Male,Married,Self Employeed,More than 50000,Graduate,3,Regular,12.989,77.5332
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773
+30,Male,Married,Self Employeed,25001 to 50000,School,6,Frequent,12.9251,77.4992
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9967,77.7582
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,Frequent,12.9967,77.7582
+30,Male,Married,Self Employeed,More than 50000,Graduate,6,Frequent,12.9967,77.7582
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.957,77.5637
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.957,77.5637
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,Regular,12.9889,77.5741
+25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,Frequent,13.0206,77.6479
+24,Female,Single,Employee,25001 to 50000,Graduate,2,Regular,12.8893,77.6399
+26,Male,Married,Employee,10001 to 25000,Graduate,3,Regular,12.8893,77.6399
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9967,77.7582
+22,Male,Single,Student,25001 to 50000,Graduate,3,Regular,12.9783,77.6408
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9783,77.6408
+23,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9925,77.5633
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9925,77.5633
+25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,Regular,12.9561,77.5921
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,Regular,12.9561,77.5921
+22,Male,Married,Student,No Income,Graduate,2,Regular,13.0734,77.5464
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923
+24,Male,Married,Employee,More than 50000,Post Graduate,3,Regular,12.9515,77.4921
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9515,77.4921
+30,Male,Married,Employee,More than 50000,Graduate,5,Frequent,12.9719,77.5128
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,Frequent,12.9048,77.6821
+19,Male,Single,Student,No Income,Graduate,6,Frequent,12.9048,77.6821
+21,Female,Single,Student,No Income,Graduate,2,Regular,13.0103,77.5796
+23,Male,Single,Student,No Income,Graduate,4,Frequent,13.0103,77.5796
+24,Female,Single,Employee,25001 to 50000,Graduate,3,Regular,12.8893,77.6399
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,Regular,12.9828,77.6131
+26,Female,Single,Student,No Income,Ph.D,2,Regular,12.9757,77.5586
+25,Female,Single,Student,10001 to 25000,Graduate,2,Regular,12.9757,77.5586
+28,Female,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9757,77.5586
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,13.0734,77.5464
+20,Female,Single,Student,No Income,Graduate,2,Regular,13.0734,77.5464
+27,Female,Married,Self Employeed,More than 50000,Graduate,6,Frequent,13.0734,77.5464
+25,Female,Married,Employee,25001 to 50000,Graduate,3,Regular,13.0626,77.5284
+24,Female,Single,Student,No Income,Post Graduate,5,Frequent,13.0626,77.5284
+25,Female,Married,Employee,More than 50000,Graduate,1,New,12.977,77.5773
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,Regular,12.998,77.6227
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,Frequent,13.0626,77.5284
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0626,77.5284
+22,Male,Single,Employee,10001 to 25000,Graduate,1,New,13.0138,77.5877
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,Regular,13.0138,77.5877
+25,Female,Single,Employee,More than 50000,Post Graduate,6,Frequent,13.014,77.5658
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,Regular,12.9551,77.6593
+22,Female,Single,Student,No Income,Graduate,6,Frequent,12.9473,77.5616
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.985,77.5533
+27,Female,Married,Employee,More than 50000,Post Graduate,2,Regular,12.9299,77.6848
+22,Male,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9828,77.6131
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9766,77.5993
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9854,77.7081
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.985,77.5533
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.977,77.5773
+32,Male,Married,Employee,More than 50000,Graduate,5,Frequent,12.9037,77.5376
+25,Female,Married,Student,No Income,Post Graduate,2,Regular,12.8834,77.5486
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,Regular,12.9149,77.5635
+21,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9149,77.5635
+24,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9706,77.6529
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,Frequent,12.9706,77.6529
+32,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9706,77.6529
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,Frequent,12.8845,77.6036
+21,Male,Single,Student,No Income,Graduate,5,Frequent,12.9783,77.6408
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,Regular,13.0103,77.5796
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,Regular,13.0103,77.5796
+21,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434
+29,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,13.0641,77.5931
+22,Male,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539
+24,Male,Single,Student,No Income,Graduate,2,Regular,12.9561,77.5921
+27,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.8845,77.6036
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9369,77.6407
+32,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9369,77.6407
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9369,77.6407
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.8845,77.6036
+26,Male,Married,Employee,More than 50000,Graduate,4,Frequent,12.9048,77.6821
+25,Female,Single,Student,No Income,Ph.D,3,Regular,12.9048,77.6821
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9261,77.6221
+29,Male,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9261,77.6221
+23,Female,Single,Student,No Income,Graduate,1,New,12.977,77.5773
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,Regular,12.9783,77.6408
+29,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9783,77.6408
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,Frequent,12.9217,77.5936
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,Regular,13.0206,77.6479
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995
+23,Male,Single,Student,No Income,Graduate,3,Regular,13.0223,77.7132
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,Frequent,12.9337,77.59
+22,Male,Married,Self Employeed,10001 to 25000,School,3,Regular,12.982,77.6256
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,Frequent,13.0262,77.62
+26,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9217,77.5936
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.8845,77.6036
+26,Male,Married,Employee,More than 50000,Graduate,4,Frequent,12.9048,77.6821
+25,Female,Single,Student,No Income,Ph.D,3,Regular,12.9048,77.6821
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9261,77.6221
+29,Male,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9261,77.6221
+23,Female,Single,Student,No Income,Graduate,1,New,12.977,77.5773
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,Regular,12.9783,77.6408
+29,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9783,77.6408
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,Frequent,12.9217,77.5936
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,Regular,13.0206,77.6479
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995
+24,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9706,77.6529
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,Frequent,12.9706,77.6529
+32,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9706,77.6529
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,Frequent,12.8845,77.6036
+21,Male,Single,Student,No Income,Graduate,5,Frequent,12.9783,77.6408
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,Regular,13.0103,77.5796
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,Regular,13.0103,77.5796
+31,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434
+29,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,13.0641,77.5931
+22,Male,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539
+24,Male,Single,Student,No Income,Graduate,2,Regular,12.9561,77.5921
+27,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.8845,77.6036
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9369,77.6407
+30,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9369,77.6407
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9369,77.6407
+28,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9369,77.6407
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,13.0158,77.539
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,New,13.0809,77.5565
+21,Male,Single,Student,No Income,Graduate,3,Regular,13.0641,77.5931
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,Frequent,12.9859,77.6713
+25,Male,Single,Self Employeed,More than 50000,School,3,Regular,12.9859,77.6713
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,New,12.9866,77.4904
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9847,77.5491
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.985,77.5533
+27,Female,Married,Employee,More than 50000,Post Graduate,2,Regular,12.9299,77.6848
+22,Male,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9828,77.6131
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9766,77.5993
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9854,77.7081
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.985,77.5533
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.977,77.5773
+23,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.8988,77.5764
