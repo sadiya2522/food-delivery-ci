@@ -1,0 +1,33 @@
+
+import pandas as pd
+
+def load_dataset():
+    return pd.read_csv("food_delivery.csv")
+
+def validate_dataset():
+    df = load_dataset()
+
+    expected_columns = [
+        "Age",
+        "Gender",
+        "Marital Status",
+        "Occupation",
+        "Monthly Income",
+        "Educational Qualifications",
+        "Family size",
+        "Customer Type",
+        "latitude",
+        "longitude"
+    ]
+
+    assert len(df) > 0, "Dataset is empty"
+    assert list(df.columns) == expected_columns, "Check column names"
+    assert not df.isnull().values.any(), "Missing values found"
+    assert df["Age"].ge(0).all(), "Invalid age"
+    assert df["Family size"].gt(0).all(), "Invalid family size"
+
+    return True
+
+if __name__ == "__main__":
+    validate_dataset()
+    print("Dataset validation successful!")
